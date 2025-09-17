@@ -18,6 +18,3 @@ Cómo está hecho
 HTML para la estructura de la página
 CSS para que se vea bonito
 JavaScript para agregar nombres y sortear al amigo secreto
-
-
-¿Quieres que haga esa versión?
